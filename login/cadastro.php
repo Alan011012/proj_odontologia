@@ -13,7 +13,7 @@
 
     <script src="script.js" defer></script>
 
-    <title>Cadastro | Udemy</title>
+    <title>Cadastro</title>
 </head>
 
 <body>

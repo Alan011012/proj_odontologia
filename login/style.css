@@ -26,9 +26,6 @@ body {
     transition: .5s;
 }
 
-#form-container a:hover {
-    color: #FF5A00;
-}
 
 #form-container form {
     padding-bottom: 50px;

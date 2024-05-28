@@ -11,7 +11,7 @@
 
     <script src="script.js" defer></script>
 
-    <title>Login | Udemy</title>
+    <title>Login</title>
 </head>
 <body>
     <div class="container col-11 col-md-9" id="form-container">
